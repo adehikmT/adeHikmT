@@ -1,4 +1,5 @@
 ### Hallo coders, nama saya Ade Hikmat ini akun pertama github saya - [adehikmatfr][linkedin] 👋
+### Saya jarang menggunakan account ini , join dengan account ke dua saya [adehikmatfr](https://github.com/adehikmatfr)
 ![Ade Hikmat FR](https://github-readme-stats.vercel.app/api?username=adehikmT&show_icons=true&theme=tokyonight)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adehikmT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
